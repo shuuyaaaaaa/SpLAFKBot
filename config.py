@@ -1,10 +1,10 @@
 from os import getenv
 import os
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "13691707"))
+API_HASH = getenv("API_HASH", "2a31b117896c5c7da27c74025aa602b8")
 
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "5897974176:AAE4eOrMUveQY8BODuMGTLRuwE1WmEkkP5E")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
