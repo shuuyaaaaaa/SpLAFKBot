@@ -1,4 +1,5 @@
 from config import *
+import secureme
 
 def set_var(var, key):
     os.environ[var] = key
