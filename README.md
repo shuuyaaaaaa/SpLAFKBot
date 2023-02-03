@@ -19,13 +19,8 @@
 
 
 <details>
-<summary> ᴄᴏᴅᴇʀs </summary>
-<h2 align="center"><b> ᴄᴏᴅᴇʀs
-<br>
-<br>
-
-• [Dhanush](https://t.me/c_s_m_king)
-• [Alpha](https://t.me/notkeshav) •
+<summary> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
+<h2 align="center"><b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 </b></h2>  
 </details>
