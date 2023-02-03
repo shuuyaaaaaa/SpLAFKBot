@@ -4,24 +4,23 @@
 <b> ★彡[ꜱᴘʟ ᴀꜰᴋ]彡★ </b>
 </h1>
 
+_____________
+
 <details>
 <summary> ᴄᴏᴅᴇʀs </summary>
 <h2 align="center"><b> ᴄᴏᴅᴇʀs
 <br>
 <br>
 
-____________
-
 [Dhanush](https://t.me/c_s_m_king)
 
 [Alpha](https://t.me/notkeshav)
-
-____________
 
 </a>
 </b></h2>  
 </details>
 
+________________
 
 ## REQUIREMENTS 
 
