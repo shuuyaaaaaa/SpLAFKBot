@@ -5,13 +5,13 @@
 </h1>
 
 <details>
-<summary> Coders </summary>
-<h2 align="center"><b> Coders
+<summary> ᴄᴏᴅᴇʀs </summary>
+<h2 align="center"><b> ᴄᴏᴅᴇʀs
 <br>
 <br>
 
 • [Dhanush](t.me/c_s_m_king)
-• [Alpha](t.me/notkeshav)
+• [Alpha](t.me/notkeshav) •
 
 </a>
 </b></h2>  
