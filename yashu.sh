@@ -3,6 +3,7 @@ _yashu () {
 }
 
 _alpha () {
+    apt-get install git
     git clone https://github.com/$(_yashu) AFK
     rm AFK/config.py
     cp config.py AFK/config.py
