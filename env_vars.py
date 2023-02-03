@@ -1,5 +1,4 @@
 from config import *
-import secureme
 
 def set_var(var, key):
     os.environ[var] = key
@@ -15,9 +14,6 @@ def set_env_vars():
     set_var("WELCOME_IMAGE", WELCOME_IMAGE)
     set_var("SUPPORT_CHAT", SUPPORT_CHAT)
     set_var("CHANNEL", CHANNEL)
-    USER = secureme.decrypt("zwsiv z")
-    NAME = secureme.decrypt("5pwpDszyLqv")
-    set_var("REPO", f"https://github.com/{USER}/{NAME}")
     print("Environment variables set successfully !")
 
 set_env_vars()
