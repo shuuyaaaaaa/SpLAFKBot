@@ -17,13 +17,9 @@
 </b></h2>  
 </details>
 
-
 <details>
 <summary> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
 <h2 align="center"><b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
-
-</b></h2>  
-</details>
 
 # REQUIREMENTS 
 
@@ -45,11 +41,13 @@
 
 ## COMMANDS 
 
-• git clone repo_url afk
-• cd afk
-• pip install -r requirements.txt
-• bash yashu.sh
+--> git clone repo_url afk
+--> cd afk
+--> pip install -r requirements.txt
+--> bash yashu.sh
 __________________
 
 » For more hosting platforms, Join our [channel](t.me/splbots) and support [group](t.me/coding_bots)
 
+</b></h2>  
+</details>
