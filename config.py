@@ -19,7 +19,7 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "")
 
 CHANNEL = getenv("CHANNEL", "")
 
-# don't change this
+# DO NOT CHANGE THIS
 
 for x in SUDO_USERS:
     SUDO_USERS.append(int(x))
