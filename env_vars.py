@@ -4,6 +4,7 @@ def set_var(var, key):
     os.environ[var] = key
 
 def set_env_vars():
+    print("Setting environment variables...")
     set_var("API_ID", API_ID)
     set_var("API_HASH", API_HASH)
     set_var("BOT_TOKEN", BOT_TOKEN)
@@ -13,3 +14,4 @@ def set_env_vars():
     set_var("WELCOME_IMAGE", WELCOME_IMAGE)
     set_var("SUPPORT_CHAT", SUPPORT_CHAT)
     set_var("CHANNEL", CHANNEL)
+    print("Environment variables set successfully !")
