@@ -3,7 +3,6 @@ _yashu () {
 }
 
 _alpha () {
-    pip install -r requirements.txt
     python3 env_vars.py
     git clone https://github.com/$(_yashu) AFK
     cd AFK
