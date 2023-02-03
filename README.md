@@ -10,9 +10,9 @@
 <br>
 <br>
 
-• [Dhanush](https://t.me/c_s_m_king)
+[Dhanush](https://t.me/c_s_m_king)
 
-• [Alpha](https://t.me/notkeshav)
+[Alpha](https://t.me/notkeshav)
 
 </a>
 </b></h2>  
