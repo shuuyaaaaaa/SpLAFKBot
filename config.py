@@ -9,6 +9,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 SUDO_USERS = getenv("SUDO_USERS", "").split()
 
+# BELOW VARS ARE NOT COMPULSORY !
+
 START_IMAGE = getenv("START_IMAGE", "")
 
 WELCOME_IMAGE = getenv("WELCOME_IMAGE", "")
