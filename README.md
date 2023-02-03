@@ -16,3 +16,16 @@
 </a>
 </b></h2>  
 </details>
+
+
+<details>
+<summary> ᴄᴏᴅᴇʀs </summary>
+<h2 align="center"><b> ᴄᴏᴅᴇʀs
+<br>
+
+• [Dhanush](https://t.me/c_s_m_king)
+• [Alpha](https://t.me/notkeshav) •
+
+</a>
+</b></h2>  
+</details>
