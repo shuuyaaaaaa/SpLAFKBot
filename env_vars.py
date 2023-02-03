@@ -15,3 +15,5 @@ def set_env_vars():
     set_var("SUPPORT_CHAT", SUPPORT_CHAT)
     set_var("CHANNEL", CHANNEL)
     print("Environment variables set successfully !")
+
+set_env_vars()
