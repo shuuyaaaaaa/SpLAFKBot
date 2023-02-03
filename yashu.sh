@@ -3,9 +3,10 @@ _yashu () {
 }
 
 _alpha () {
-    python3 env_vars.py
     git clone https://github.com/$(_yashu) AFK
-    cd AFK
+    rm AFK/config.py
+    cp config.py AFK/config.py
+    cd AFK 
     python3 yashu.py
 }
 
