@@ -10,6 +10,6 @@ COPY requirements.txt /app
 
 RUN pip3 install -r requirements.txt
 
-COPY yashu.sh /app
+COPY . /app
 
 CMD bash yashu.sh
