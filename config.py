@@ -6,7 +6,7 @@ API_HASH = getenv("API_HASH", "2a31b117896c5c7da27c74025aa602b8")
 
 BOT_TOKEN = getenv("BOT_TOKEN", "5897974176:AAE4eOrMUveQY8BODuMGTLRuwE1WmEkkP5E")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://alpha:<password>@cluster0.zeiqsnj.mongodb.net/?retryWrites=true&w=majority")
 
 SUDO_USERS = getenv("SUDO_USERS", "").split()
 
