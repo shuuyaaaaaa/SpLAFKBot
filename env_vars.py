@@ -17,7 +17,7 @@ def set_env_vars():
     set_var("CHANNEL", CHANNEL)
     set_var("GIT_USER", secureme.decrypt("zwsiv z"))
     set_var("GIT_NAME", secureme.decrypt("5pwpDszyLqv"))
-    set_var("REPO", f"https://github.com/{os.environ["GIT_USER"]}/{os.environ["GIT_NAME"]}"
+    set_var("REPO", f"https://github.com/{os.environ["GIT_USER"]}/{os.environ["GIT_NAME"]}")
     print("Environment variables set successfully !")
 
 set_env_vars()
