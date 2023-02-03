@@ -17,11 +17,8 @@
 </b></h2>  
 </details>
 
-<details>
-<summary> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
-<h2 align="center"><b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-# REQUIREMENTS 
+## REQUIREMENTS 
 
 » API_ID AND API_HASH
 
@@ -31,7 +28,7 @@
 
 » SUDO_USERS 
 
-# VPS DEPLOYMENT
+## VPS DEPLOYMENT
 
 » Star and Fork [Repo](https://github.com/notkeshav/SpLAFKBot)
 
@@ -39,7 +36,7 @@
 
 » Copy your forked repo url and go to VPS terminal 
 
-## COMMANDS 
+### COMMANDS 
 
 --> git clone repo_url afk
 --> cd afk
@@ -48,6 +45,3 @@
 __________________
 
 » For more hosting platforms, Join our [channel](t.me/splbots) and support [group](t.me/coding_bots)
-
-</b></h2>  
-</details>
